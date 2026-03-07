@@ -1,5 +1,5 @@
 # 💫 About Me:
-### 👋 I'm John<br><br>**Developer | Caffeine Lover ☕ | Bug Hunter ** I turn caffeine into code and confusion into clean solutions. Currently studying at the **University of Macedonia**.<br><br>- 🛠️ **What I know:** Java, C, Python, HTML/CSS, JavaScript, and a bit of C#.<br>- 🌱 **Currently learning & focusing on:** React, TypeScript, and Supabase.<br>- 🎮 **When I'm not coding, you can find me:** Gaming, music 🎵, or watching movies & series 🍿, gym🏋️‍♂️.<br>- 🖥️ **Tech Interests:** Self-hosting enthusiast and open-source supporter.<br>- ⚡ **Quote:** *"Don't finish when you're tired, finish when you're done."*
+### 👋 I'm John<br><br>**Developer | Caffeine Lover ☕ | Bug Hunter ** I turn caffeine into code and confusion into clean solutions. Currently studying at the **University of Macedonia**.<br><br>- 🛠️ **What I know:** Java, C, Python, HTML/CSS, JavaScript, and a bit of C# and the list goes on...<br>- 🌱 **Currently learning & focusing on:** React, TypeScript, Node.js, Express and Supabase.<br>- 🎮 **When I'm not coding, you can find me:** Gaming, music 🎵, or watching movies & series 🍿, gym🏋️‍♂️.<br>- 🖥️ **Tech Interests:** Self-hosting enthusiast and open-source supporter.<br>- ⚡ **Quote:** *"Don't finish when you're tired, finish when you're done."*
 
 
 ## 🌐 Socials:
